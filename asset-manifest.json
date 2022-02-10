@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ConfigProps/static/css/main.8ebc4dd0.css",
+    "main.js": "/ConfigProps/static/js/main.77bb66bc.js",
+    "index.html": "/ConfigProps/index.html",
+    "main.8ebc4dd0.css.map": "/ConfigProps/static/css/main.8ebc4dd0.css.map",
+    "main.77bb66bc.js.map": "/ConfigProps/static/js/main.77bb66bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ebc4dd0.css",
+    "static/js/main.77bb66bc.js"
+  ]
+}
